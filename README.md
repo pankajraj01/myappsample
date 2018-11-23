@@ -1,3 +1,3 @@
-<myapp>
+myapp
 This is Myapp
 dsd
